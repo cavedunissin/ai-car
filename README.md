@@ -1,9 +1,15 @@
 實戰AI資料導向式學習｜Raspberry Pi x 深度學習 x 視覺辨識
+====
 
 * [購書連結](https://www.robotkingdom.com.tw/product/isbn_9789865021573/)
 * [購買RK AI car](https://www.robotkingdom.com.tw/product/rkaicar-ncs/)
 * [下載RK AI car - Raspberry Pi SD卡映像檔](https://drive.google.com/open?id=1m90AYBAabztWHaO-ahAH1v810c0QbNlk)
-* [更多相關文章](http://blog.cavedu.com/?s=)請參考：
+* [更多相關文章](http://blog.cavedu.com/?s=ai)
+
+<img src="https://www.robotkingdom.com.tw/wp-content/uploads/2018/10/IMG_5762.jpg" alt="RK AI car" title="RK AI car" width="400" height="300" />
+<img src="https://www.robotkingdom.com.tw/wp-content/uploads/2018/10/IMG_5763.jpg" alt="RK AI car" title="RK AI car" width="400" height="300" />
+
+***
 
 內容簡介
 
