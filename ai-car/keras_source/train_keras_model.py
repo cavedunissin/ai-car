@@ -50,7 +50,7 @@ def custom_model(input_shape, n_classes):
 
     inputs = [input_tensor]
     model = Model(inputs, output_layer)
-
+    model.summary()
     return model
 
 
