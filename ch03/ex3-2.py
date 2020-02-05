@@ -8,7 +8,7 @@ import pygame,time
 api_key = "9f3c6523191bf26504d35d55a3f7ecb6"
 #api_key = 'Enter your api key'
 lat = 25.0391667
-lng =  121.525
+lng = 121.525
 lang = 'zh-TW'
 file_name = 'weather.mp3'
 
@@ -25,9 +25,7 @@ def speak(text):
     
     while pygame.mixer.music.get_busy() == True:
         time.sleep(0.5)
-    
-
-
+        
 while True:
     with sr.Microphone() as source:
         print("Please wait .")

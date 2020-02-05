@@ -3,15 +3,12 @@
 import time
 import requests
 
-
 event_name = "Raspberry"
 webhook_key = "lBWnRdYFOWNsn6mUXgthSl9gV0dP4te7S0cMW4_NO4u"
 
 value1 = "Hello."
 value2 = "I am RaspberryPi."
 value3 = "Nice to meet you"
-
-
 
 def IFTTT_post( value1,value2,value3 ):
         url_post = "https://maker.ifttt.com/trigger/" + event_name 
